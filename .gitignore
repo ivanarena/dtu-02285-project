@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+.cspell/
+searchclient/searchclient_python/todo.txt
+searchclient/searchclient_python/final/test.json

@@ -1,0 +1,17 @@
+#domain
+hospital
+#levelname
+TSurplus
+#colors
+blue: 0, A, B
+#initial
++++++++++++++++++++
++AB0              +
++BB               +
++++++++++++++++++++
+#goal
++++++++++++++++++++
++      A          +
++                 +
++++++++++++++++++++
+#end

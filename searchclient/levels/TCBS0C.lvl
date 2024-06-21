@@ -1,0 +1,23 @@
+#domain
+hospital
+#levelname
+TCBS0C
+#colors
+blue: 0,1,A,B,C
+#initial
++++++++
++    1+
++0+ + +
++A    +
++ +C+B+
++     +
++++++++
+#goal
++++++++
++     +
++ + + +
++     +
++A+ + +
++  C B+
++++++++
+#end
